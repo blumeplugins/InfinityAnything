@@ -15,6 +15,11 @@ f5d4758e-8ad1-466b-9bf8-da58a5c3da12
 058aa284-c0cf-4826-beae-9df1cb411623
 <!-- BLUMECORE-YOUTUBER:__global_blume__:END -->
 
+# BlumeCore: Parkillerz
+<!-- BLUMECORE-YOUTUBER:N3xsWd7lMDUmH8iPRWtj:START -->
+8f407f29-695d-469c-9be7-68b98acc9007
+<!-- BLUMECORE-YOUTUBER:N3xsWd7lMDUmH8iPRWtj:END -->
+
 # BlumeCore: Wollech
 <!-- BLUMECORE-YOUTUBER:3s2dMCyuOQoKGWiMEiux:START -->
 704731ad-d3e2-4d34-af7e-d33937fc97db
