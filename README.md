@@ -3,6 +3,13 @@ Minecraft mod access repository for InfinityAnything
 
 <!-- BLUMECORE-MANAGED-START -->
 
+# BlumeCore: Acenix
+<!-- BLUMECORE-YOUTUBER:v1gs2fqSccbgMBmclZN9:START -->
+170ae82b-d88d-4335-908e-97c6baa38770
+35180160-856c-49a8-be2b-e362027e8634
+babebac5-221a-4552-9ca9-067ba96ce4b2
+<!-- BLUMECORE-YOUTUBER:v1gs2fqSccbgMBmclZN9:END -->
+
 # BlumeCore: AdiSpot
 <!-- BLUMECORE-YOUTUBER:qYpoGIBiekAYGamzabmB:START -->
 994f359f-ca40-4a20-8db5-8355a173a21d
